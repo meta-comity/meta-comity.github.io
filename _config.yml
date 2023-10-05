@@ -160,58 +160,7 @@ chulapa-skin:
     # 參考: https://dieghernan.github.io/chulapa/docs/variable-dictionary
     # 把上面的參數全部抄上來就對了
     primary     : "#1abc9c" # lightskyblue #default ["#007bff"] - Bootstrap blue
-    body-bg     : "#000000"
-
-    # Navbar background color. You can use the primary color of your theme, Castleton Green.
-    navbar-chulapa-bg-color: "#0A5C36"
-    navbar-chulapa-text-color: "#1D2E28;"
-    # Navbar text color. You can use a light or neutral color that contrasts well with the background color, Gunmetal
-    # Navbar text color on hover. You can use a brighter or more vibrant color that stands out from the background color, Lime Green
-    navbar-chulapa-hover-color: "#00CA00"
-    # Navbar text color for active item. You can use the same color as the hover color, or a slightly darker or lighter shade of it, Green
-    navbar-chulapa-active-color: "#008000"
-    # Navbar text color for disabled item. You can use a gray or black color that indicates that the item is not clickable, Black
-    navbar-chulapa-disabled-color: "#000000"
-    # Navbar brand color. You can use a different color than the primary color to make your brand stand out, Dodger Blue
-    navbar-chulapa-brand-color: "#1E90FF"
-    # Navbar brand color on hover. You can use a lighter or darker shade of the brand color, Light Sky Blue
-    navbar-chulapa-brand-hover-color: "#87CEFA"
-    #•  navbar-chulapa-toggler-color: This is the color of the hamburger icon on the navbar. You can use a light or neutral color that contrasts well with the background color, Gunmetal
-    navbar-chulapa-toggler-color: "#1D2E28"
-    #•  navbar-chulapa-toggler-color-bg: This is the background color of the hamburger icon on the navbar. You can use a transparent or semi-transparent color that blends well with the background color, rgba(0, 0, 0, 0).
-    navbar-chulapa-toggler-color-bg: "rgba(0, 0, 0, 0)" # rgba(0, 0, 0, 0);
-    #•  navbar-chulapa-toggler-border-color: This is the border color of the hamburger box on the navbar. You can use a light or neutral color that contrasts well with the background color, Gunmetal
-    navbar-chulapa-toggler-border-color: "#1D2E28"
-    #•  footer-chulapa-bg-color: This is the background color of the footer. You can use a dark or strong color that contrasts well with the body background color, Black
-    footer-chulapa-bg-color: "#000000"
-    #•  footer-chulapa-text-color: This is the text color of the footer. You can use a light or neutral color that contrasts well with the background color, Gunmetal
-    footer-chulapa-text-color: "#1D2E28"
-    #•  footer-chulapa-hover-color: This is the text color of the footer on hover. You can use a brighter or more vibrant color that stands out from the background color, Lime Green
-    footer-chulapa-hover-color: "#00CA00"
-    #•  footer-chulapa-icon-color: This is the color of the social icons on the footer. You can use a light or neutral color that contrasts well with the background color, Gunmetal
-    footer-chulapa-icon-color: "#1D2E28"
-    #•  footer-chulapa-icon-hover-color: This is the color of the social icons on the footer on hover. You can use a brighter or more vibrant color that stands out from the background color, Lime Green
-    footer-chulapa-icon-hover-color: "#00CA00"
-    #•  hero-chulapa-bg-color: This is the background color of the hero header. You can use a light or neutral color that contrasts well with the body background color, Gunmetal
-    hero-chulapa-bg-color: "#1D2E28"
-    #•  hero-chulapa-text-color: This is the text color of the hero header. You can use a dark or strong color that contrasts well with the background color, Black
-    hero-chulapa-text-color: "#000000"
-    #•  landingpage-chulapa-bg-color: This is the background color of the landing page. You can use a light or neutral color that contrasts well with the body background color, Gunmetal
-    landingpage-chulapa-bg-color: "#1D2E28"
-    #•  landingpage-chulapa-text-color: This is the text color of the landing page. You can use a dark or strong color that contrasts well with the background color, Black
-    landingpage-chulapa-text-color: "#000000"
-    #•  blockquote-chulapa-bg-color: This is the background color of the blockquote element. You can use a different color than the primary color to make your quotes stand out, Dodger Blue.
-    blockquote-chulapa-bg-color: "#1E90FF"
-    #•  blockquote-chulapa-text-color: This is the text color of the blockquote element. You can use a light or neutral color that contrasts well with the background color, Gunmetal.
-    blockquote-chulapa-text-color: "#1D2E28"
-    #•  footnote-chulapa-text-color: This is the text color of the footnote/captions element. You can use a gray or black color that indicates that the text is less important than the main content, Black
-    footnote-chulapa-text-color: "#000000"
-    #•  pre-chulapa-bg-color: This is the background color of the code block element. You can use a different color than the primary color to make your code stand out, Dodger Blue
-    pre-chulapa-bg-color: "#1E90FF"
-    #•  thead-chulapa-bg-color: This is the background color of the table head element. You can use a different color than the primary color to make your table headers stand out, Dodger Blue
-    thead-chulapa-bg-color: "#1E90FF"
-    #•  thead-chulapa-text-color: This is the text color of the table head element. You can use a light or neutral color that contrasts well with the background color, Gunmetal
-    thead-chulapa-text-color: "#1D2E28"
+    # body-bg     : "#000000"
 
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
