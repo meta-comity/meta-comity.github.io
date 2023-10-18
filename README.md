@@ -1,2 +1,3 @@
-Jekyll with Chulapa template
+# meta-comity
+build with Jekyll + Chulapa template
 
