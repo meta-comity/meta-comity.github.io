@@ -3,6 +3,7 @@ layout: hero
 title: "關於"
 permalink: /about
 show_breadcrumb: true
+# header_img: https://cdn.pixabay.com/photo/2018/07/08/17/51/network-3524352_1280.jpg
 ---
 
 # 關於 meta-comity

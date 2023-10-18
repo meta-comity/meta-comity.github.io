@@ -197,6 +197,20 @@ defaults:
   -
     scope:
       path: ""
+      type: "about"
+    values:
+      header_type       : "hero"
+      show_bottomnavs   : true
+      # show_sociallinks  : false
+      include_on_search : true
+      include_on_feed   : true
+      show_breadcrumb   : true
+      breadcrumb_list   :
+        - label: About
+          url: /about
+  -
+    scope:
+      path: ""
       type: "posts"
     values:
       header_type       : "post"
