@@ -1,6 +1,5 @@
 ---
 layout: landingpage
-header_type: splash
 title: META COMITY
 subtitle: comity in metaverse
 header_type: splash
