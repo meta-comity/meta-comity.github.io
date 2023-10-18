@@ -207,7 +207,7 @@ defaults:
       show_breadcrumb   : true
       breadcrumb_list   :
         - label: 關於
-          url: /about
+          url: /about/
   -
     scope:
       path: ""

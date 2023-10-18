@@ -1,11 +1,11 @@
 ---
-layout: landingpage
+# layout: default
 title: 關於
-permalink: /about
+permalink: /about/
 # permalink: /about.html
-include_on_search: true
-show_breadcrumb: true
-header_type: splash
+# include_on_search: true
+# show_breadcrumb: true
+# header_type: splash
 header_img: https://cdn.pixabay.com/photo/2018/07/08/17/51/network-3524352_1280.jpg
 ---
 
