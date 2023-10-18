@@ -206,7 +206,7 @@ defaults:
       include_on_feed   : true
       show_breadcrumb   : true
       breadcrumb_list   :
-        - label: About
+        - label: 關於
           url: /about
   -
     scope:
