@@ -106,6 +106,8 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
+  - title   : 關於 # Label
+    url     : /about # url
   - title   : Article # Label
     url     : /article/ # url
   - title   : Cheatsheets
